@@ -1,2 +1,2 @@
 # webapp-tutorials
-Repository for learning
+Repository for API tutorials
